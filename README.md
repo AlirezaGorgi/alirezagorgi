@@ -34,25 +34,17 @@
 
 <h2 align="center">Currently Working With 👨‍💻</h2>
 
-<div align="center" style="max-width: 600px;">
+<p align="left">🖥 JavaScript</p>
+<img alt="JavaScript 80%" src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-  <!-- JavaScript -->
-  <h3>🖥 JavaScript</h3>
-  <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 20px; margin-bottom: 10px;">
-    <div style="width: 80%; height: 100%; background-color: #f7df1e; border-radius: 10px;"></div>
-  </div>
+<p align="left">🖥 React.js</p>
+<img alt="React.js 50%" src="https://img.shields.io/badge/React-50%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 
-  <!-- React -->
-  <h3>🖥 React.js</h3>
-  <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 20px; margin-bottom: 10px;">
-    <div style="width: 50%; height: 100%; background-color: #61dafb; border-radius: 10px;"></div>
-  </div>
+<p align="left">🎨 Tailwind CSS</p>
+<img alt="Tailwind CSS 70%" src="https://img.shields.io/badge/Tailwind-70%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-  <!-- Tailwind CSS -->
-  <h3>🎨 Tailwind CSS</h3>
-  <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 20px; margin-bottom: 10px;">
-    <div style="width: 70%; height: 100%; background-color: #38b2ac; border-radius: 10px;"></div>
-  </div>
+<p align="left">🖥 HTML</p>
+<img alt="HTML 100%" src="https://img.shields.io/badge/HTML-100%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-</div>
-
+<p align="left">🎨 CSS</p>
+<img alt="CSS 100%" src="https://img.shields.io/badge/CSS-100%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
