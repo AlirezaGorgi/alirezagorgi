@@ -16,24 +16,43 @@
 <br />
 
 <h2 align="right">Contact Me 📞</h2>
-<a href="https://instagram.com/rad_front"><img width="50px" height="50px" align="left" src="https://github.com/alirezaGorgi/alirezaGorgi/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+<a href="https://instagram.com/a_titanium_g"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
+<a href="https://t.me/galireza1999"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
 <br />
 
 <h2 align="right">What I'm Currently Working On 🌚</h2>
 
-<h3 align="right">🌟 Backend Development for SabzLearn Academy</h3>
-<h3 align="right">🌟 Teaching Git and GitHub Course</h3>
+<h3 align="right">🌟 Learning React.js and Advanced Frontend Development</h3>
+<h3 align="right">🌟 Practicing Projects with React</h3>
+<h3 align="right">🌟 Exploring React Router and State Management</h3>
+<h3 align="right">🌟 Improving JavaScript Skills and ES6 Features</h3>
 <h3 align="right">🌟 Content Creation</h3>
 <h3 align="right">🌟 Front-End Development for OnlyJS Website</h3>
 
 <br />
 
-<h2 align="right">Currently Working With 👨‍💻</h2>
+<h2 align="center">Currently Working With 👨‍💻</h2>
 
-<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+<div align="center" style="max-width: 600px;">
 
-<br />
+  <!-- JavaScript -->
+  <h3>🖥 JavaScript</h3>
+  <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 20px; margin-bottom: 10px;">
+    <div style="width: 80%; height: 100%; background-color: #f7df1e; border-radius: 10px;"></div>
+  </div>
 
-<h3 align="left">🖥 React Js | 50%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+  <!-- React -->
+  <h3>🖥 React.js</h3>
+  <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 20px; margin-bottom: 10px;">
+    <div style="width: 50%; height: 100%; background-color: #61dafb; border-radius: 10px;"></div>
+  </div>
+
+  <!-- Tailwind CSS -->
+  <h3>🎨 Tailwind CSS</h3>
+  <div style="background-color: #e0e0e0; border-radius: 10px; width: 100%; height: 20px; margin-bottom: 10px;">
+    <div style="width: 70%; height: 100%; background-color: #38b2ac; border-radius: 10px;"></div>
+  </div>
+
+</div>
+
