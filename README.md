@@ -9,7 +9,7 @@
 
 <br />
 
-<h2 align="right">Tools I Use 💪</h2>
+<h2 align="left">Tools I Use 💪</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -22,14 +22,14 @@
 
 <br />
 
-<h2 align="right">What I'm Currently Working On 🌚</h2>
+<h2 align="left">What I'm Currently Working On 🌚</h2>
 
-<h3 align="right">🌟 Learning React.js and Advanced Frontend Development</h3>
-<h3 align="right">🌟 Practicing Projects with React</h3>
-<h3 align="right">🌟 Exploring React Router and State Management</h3>
-<h3 align="right">🌟 Improving JavaScript Skills and ES6 Features</h3>
-<h3 align="right">🌟 Content Creation</h3>
-<h3 align="right">🌟 Front-End Development for OnlyJS Website</h3>
+<h3 align="left">🌟 Learning React.js and Advanced Frontend Development</h3>
+<h3 align="left">🌟 Practicing Projects with React</h3>
+<h3 align="left">🌟 Exploring React Router and State Management</h3>
+<h3 align="left">🌟 Improving JavaScript Skills and ES6 Features</h3>
+<h3 align="left">🌟 Content Creation</h3>
+<h3 align="left">🌟 Front-End Development for OnlyJS Website</h3>
 
 <br />
 
